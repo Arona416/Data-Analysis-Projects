@@ -70,6 +70,16 @@ Some examples of SQL analyses include:
 - Which nationalities have the highest average overall rating among players worth more than €50 million?
 
 ---
+## 📌 Project Results
+
+During this project, I successfully:
+
+- Cleaned missing values from the dataset
+- Replaced missing club and league names
+- Explored more than 18,000 player records
+- Answered business-oriented questions using SQL
+- Applied aggregate functions and filtering techniques
+- Improved my SQL querying and data analysis skills
 
 ## 📷 Project Screenshots
 
