@@ -54,6 +54,13 @@ The dashboard provides several interactive visualizations:
 4. **Customer Age Analysis:** Visualizes purchasing patterns by customer age.
 5. **Interactive Filters:** Allows users to filter results by marital status, region, and education.
 
+## Dashboard Preview
+
+### Main Dashboard
+![Bike Sales Dashboard](images/dashboard.jpg)
+
+### Dashboard Overview
+![Dashboard Details](images/dashboard-details.jpg)
 ## Project Structure
 
 ```text
