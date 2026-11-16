@@ -1,36 +1,44 @@
 # Tableau Projects – Data Visualization Portfolio
 
-## Overview
+## 1. Global Tech Solutions – HR Analytics Dashboard
 
-This section contains data visualization and business intelligence projects developed using Tableau.
+### Project Overview
 
-The projects focus on transforming raw datasets into interactive dashboards and meaningful visual insights to support data-driven decision-making.
+An interactive HR Analytics Dashboard developed using Tableau to analyze employee data and identify business insights related to salaries, workforce distribution, recruitment trends, and employee performance.
 
-## Tools & Technologies
+### Key Insights & Visualizations
+
+- **Salary Analysis:** Comparison of total salaries across countries.
+- **Employee Distribution:** Geographic distribution of employees by country.
+- **Hiring Trends:** Recruitment evolution from 2016 to 2024.
+- **Department Analysis:** Employee distribution across seven departments.
+- **Performance Analysis:** Average employee performance indicators.
+
+### Tools & Technologies
 
 - Tableau Desktop
+- Tableau Public
 - Data Visualization
-- Interactive Dashboards
-- Data Cleaning and Preparation
 - Business Intelligence
-- Exploratory Data Analysis
+- Data Analysis
 
-## Projects
+### Dashboard Preview
 
-| Project | Description | Status |
-|---|---|---|
-| Project 1 | To be added | Planned |
+![Global Tech Solutions Dashboard](Screenshots/global-tech-dashboard.png)
 
-## Skills Demonstrated
+### Live Interactive Dashboard
 
-- Dashboard development
-- Data storytelling
-- Visual analytics
-- Business insights generation
-- Data-driven decision-making
+[View on Tableau Public](https://public.tableau.com/app/profile/arona.barry/viz/GlobalTechSolutions_17948527677280/Dashboard1?publish=yes)
+
+### Project Files
+
+- `Global Tech solutions.twb` – Tableau workbook.
+- `Screenshots/` – Dashboard screenshots.
 
 ---
 
-**Author:** Arona Barry  
-**GitHub:** [Arona416](https://github.com/Arona416)  
-**Portfolio:** Data-Analysis-Projects
+**Author:** Arona Barry
+
+Data Analyst | Applied Computer Science
+
+[GitHub](https://github.com/Arona416)
