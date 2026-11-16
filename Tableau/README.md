@@ -24,7 +24,7 @@ An interactive HR Analytics Dashboard developed using Tableau to analyze employe
 
 ### Dashboard Preview
 
-![Global Tech Solutions Dashboard](Screenshots/global-tech-dashboard.png)
+![Global Tech Solutions Dashboard](Screenshots/global-tech-dashboard.jpg)
 
 ### Live Interactive Dashboard
 
