@@ -1,4 +1,5 @@
 # British Airways – Customer Satisfaction Dashboard
+![British Airways Dashboard](british-airways-dashboard.jpg)
 
 ## Project Overview
 
