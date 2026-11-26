@@ -36,7 +36,6 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Data Professional Survey Dashboard](dashboard-screenshot.png)
 
 ## Author
 
