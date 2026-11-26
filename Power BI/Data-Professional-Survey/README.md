@@ -1,5 +1,5 @@
 # Data Professional Survey Breakdown
-
+![Data Professional Survey Dashboard](Data-Professional-Survey.jpg)
 ## Project Overview
 
 This project presents an interactive Power BI dashboard analyzing survey responses from 630 data professionals.
